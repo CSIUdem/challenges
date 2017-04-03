@@ -1,4 +1,3 @@
-Les fichiers destines aux participants seront dans `/build`
 Voir le pdf en français ou en anglais pour une description détaillé du challenge.
 
 À rouler sur votre machine locale.
