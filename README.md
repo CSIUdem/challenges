@@ -31,8 +31,8 @@ Si vous avez des idées de challenges n'hésitez pas à nous en faire part:
 - Faire des marche au travers (walkthroughsss);
 
 ## Nous joindre
-# Site web: [http://csi.ninja](http://csi.ninja)
-# Facebook: [CSI (UdeM)](https://www.facebook.com/groups/infosecum)
-# Email:    [csi.umontreal@gmail.com](mailto:csi.umontreal@gmail.com)
+### Site web:  [http://csi.ninja](http://csi.ninja)
+### Facebook:  [CSI (UdeM)](https://www.facebook.com/groups/infosecum)
+### Email:     [csi.umontreal@gmail.com](mailto:csi.umontreal@gmail.com)
 
 ## **Bon hacking!**
