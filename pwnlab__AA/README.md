@@ -1,18 +1,21 @@
 ## PwnLab: init
-Welcome to **PwnLab**. Meant to be easy, I hope you enjoy it and maybe learn something. The purpose of this CTF is to get root and read the flag.
+Welcome to **PwnLab**!
 
-Can contact me at: claor@pwnlab.net or on Twitter: @Chronicoder
+Meant to be easy, I hope you enjoy it and maybe learn something. 
+
+**Goals:**
+The purpose of this CTF is to get root and read the flag:
+- /root/flag.txt
 
 [Official webpage](https://www.vulnhub.com/entry/pwnlab-init,158/)
 
 ## Information
-- Name:          PwnLab: init   
-- OS:            Debian
-- IP Address:    192.168.0.6
-- Author:        Claor
-- Date Release:  1 Aug 2016
-- Difficulty:    Low
-- Flag:          /root/flag.txt
+- **IP Address: 192.168.0.6**
+- Difficulty: Low
+- OS: Debian
+- Number of Flags: 1
+- Author: Claor
+- Date Release: 1 Aug 2016
 
 Disponible **EN TOUT TEMPS** au 3189-AA. 
 
@@ -33,4 +36,4 @@ Password:  ifyouarethenyouthink
 - Netcat OR Meterpreter (reverse shell)
 - File headers
 
-## **Bon hacking!**
+## Bon hacking!

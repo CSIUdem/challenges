@@ -12,4 +12,4 @@ Référez-vous à la documentation spécifique à chaque challenge.
 - Binwalk
 - Linux && GNU basic programs (strace, ptrace, strings ...)
 
-## **Bon hacking!**
+## Bon hacking!

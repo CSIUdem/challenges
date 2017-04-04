@@ -14,4 +14,4 @@ Vous devez downloader les fichiers de captures et trouver les flags.
 ## TODO:
 - Séparer chacun des challenges dans son propre dossier;
 
-## **Bon hacking!**
+## Bon hacking!

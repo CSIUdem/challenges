@@ -35,4 +35,4 @@ Si vous avez des idées de challenges n'hésitez pas à nous en faire part:
 - Facebook:  [CSI (UdeM)](https://www.facebook.com/groups/infosecum)
 - Email:     [csi.umontreal@gmail.com](mailto:csi.umontreal@gmail.com)
 
-## **Bon hacking!**
+## Bon hacking!
