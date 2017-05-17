@@ -16,7 +16,7 @@ Special Thanks to madmantm for testing this virtual machine.
 [Official webpage](https://www.vulnhub.com/entry/hackfest2016-sedna,181/)
 
 ## Information
-- **IP Address: 192.168.0.7**
+- **IP Address: 192.168.0.113**
 - Difficulty: Medium
 - OS: Linux
 - Number of Flags: 4
